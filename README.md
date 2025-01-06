@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Front-End Developer</h3>
 <div align="center"> 
 
 [![](https://visitcount.itsvg.in/api?id=LiamPham98&icon=0&color=0)](https://visitcount.itsvg.in)
